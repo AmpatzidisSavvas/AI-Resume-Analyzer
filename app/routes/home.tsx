@@ -17,10 +17,10 @@ export function meta({}: Route.MetaArgs) {
 export default function Home() {
   const { auth } = usePuterStore();
     
-    const navigate = useNavigate();
+  const navigate = useNavigate();
 
 
-    useEffect(() => {
+  useEffect(() => {
     if(!auth.isAuthenticated) navigate('/auth?next=/');
   }, [auth.isAuthenticated])
 

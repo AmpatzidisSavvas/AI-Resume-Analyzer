@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Enterprise AI-Powered Resume Analyzer System</title>
 </head>
 <body>
@@ -31,7 +28,7 @@
     <li><strong>Deployment:</strong> Container-ready for enterprise environments</li>
   </ul>
 
-  <h2>🧠 How It Works</h2>
+  <h2> How It Works</h2>
   <ol>
     <li><strong>Create Job Listings</strong> – HR admins add roles with required skills and qualifications.</li>
     <li><strong>Upload Resumes</strong> – Candidates’ resumes are uploaded into the system.</li>

@@ -1,7 +1,5 @@
 
-<head>
-  <title>Enterprise AI-Powered Resume Analyzer System</title>
-</head>
+
 <body>
   <h1>Enterprise AI-Powered Resume Analyzer System</h1>
   <p>
